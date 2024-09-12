@@ -1,12 +1,17 @@
 **Stock Discussion Platform**
+
 **Backend Overview **
 
 This repository contains the backend implementation for a community platform where users can discuss stocks. Built with the MERN stack (MongoDB, Express.js, Node.js), the backend supports user authentication, stock post management, commenting, liking, and more.
 
 **Features User Authentication:**
+
 JWT-based registration, login, and profile management. 
+
 Stock Post Management: Create, retrieve, update, and delete stock posts. 
+
 Commenting System: Add and delete comments on stock posts. 
+
 Like System: Like and unlike posts, with a display of total likes.
 Filtering and Sorting: Fetch posts by stock symbol, tags, and sort by date or likes. 
 Pagination (Bonus): Paginate posts for efficient retrieval. Real-time Updates (Bonus):
