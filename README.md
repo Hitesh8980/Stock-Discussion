@@ -21,13 +21,17 @@ Pagination (Bonus): Paginate posts for efficient retrieval. Real-time Updates (B
 Real-time notifications for new comments and likes using Socket.io.
 
 **Tech Stack **
+
 MongoDB - NoSQL database for storing data. 
 
-Express.js - Web framework for Node.js. Node.js - JavaScript runtime environment.
+Express.js - Web framework for Node.js. 
+
+Node.js - JavaScript runtime environment.
 
 Socket.io (Optional) - For real-time updates. 
 
 **Getting Started Prerequisites **
+
 Node.js and npm installed on your machine. 
 
 MongoDB instance (local or cloud). 
