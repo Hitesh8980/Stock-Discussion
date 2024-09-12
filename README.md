@@ -45,7 +45,8 @@ bash Copy code npm install Configuration
 Create a .env file in the root directory and add your environment variables:
 
 env Copy code
-MONGO_URI=mongodb://localhost:27017/your-db-name
+
+MONGO_URL=mongodb://localhost:27017/your-db-name
 
 PORT=your port number
 
